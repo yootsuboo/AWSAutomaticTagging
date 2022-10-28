@@ -1,0 +1,2 @@
+# AWSAutomaticTagging
+AWSリソースへの自動タグ付けを行う
